@@ -3,8 +3,6 @@ A simple hotel booking application built by leveraging the major features of Ang
 
 This application uses static dummy data. A responsive UI has been built using Bootstrap.
 
-## Prerequisites
-
 **1. Angular CLI:**
 
 Make sure you have Angular CLI installed
